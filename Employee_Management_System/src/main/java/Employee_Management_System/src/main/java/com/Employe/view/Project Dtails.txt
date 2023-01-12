@@ -1,0 +1,14 @@
+Project Name    :    Employ managemnet System
+
+Features             :  1.When You run Programe welcome Screen will Be Displayed and  It will ask You to Login .
+                                2.To log-in UserId-"Admin" , password - "admin@123" It will show Login Sucessful.
+                                3.It can perform CRUD( Create ,Read ,Update and Delete ) operations You have to choose operation To be performed.
+                                4.After completing selected operation It will ask you to continue or Logout by pressing continue You can continue the selected
+                                    Crud operation.
+                                5.It Will Ask You to confirm the password If you are Reading a Data.    
+                                6.Also We created a Customised Eror to through when user give some wrong input.
+                            
+  Team Members :  1.Nandan.k
+                                  2.Shubashish 
+                                  3.Manjunath.s
+                                  4.Dhiraj                          
